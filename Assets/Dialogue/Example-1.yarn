@@ -1,0 +1,13 @@
+﻿title: Start
+---
+Orin: Hey, I am Orin.
+Okuu: Hi there Orin! I'm Okuu.
+Orin: Look over there!
+<<Flip Okuu>>
+Okuu: What?
+<<Expression Orin Smug>>
+<<Flip Okuu>>
+Orin: Just kidding.
+<<Expression Okuu Sad>>
+Okuu: You bully.
+===
