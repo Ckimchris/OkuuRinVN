@@ -37,6 +37,17 @@ public class SentenceBuilder : MonoBehaviour
         return sentence;
     }
 
+    /*[YarnFunction("Jump_Beef")]
+    public void Jump_Beef()
+    {
+        //This is DX's testing to jump node upon sentence contain specific word
+        //Feel free to improve later :D
+        if (sentence.Contains("Beef"))
+        {
+            dR.StartDialogue("Beef");
+        }
+    }*/
+
 
     [YarnCommand("SentenceBuilder")]
     public void ShowBuilder()

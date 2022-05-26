@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 565ff769ceb0091418b96baf07ca24f1
+guid: 0bb541a50cd84fe4caf75f059d27a9ce
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -10,14 +10,18 @@ ScriptedImporter:
   script: {fileID: 11500000, guid: 053561912b1654d80a424bb0696a74ae, type: 3}
   sourceScripts:
   - {fileID: 6391573757903218779, guid: 54cfb19fea94eb545b73613444b29a0f, type: 3}
+  - {fileID: 6391573757903218779, guid: 848762416f7346140b447a9364551962, type: 3}
   compileErrors: []
   serializedDeclarations: []
-  defaultLanguage: en-US
+  defaultLanguage: de-DE
   languagesToSourceAssets: []
   useAddressableAssets: 0
   searchAllAssembliesForActions: 1
   assembliesToSearch: []
   ListOfFunctions:
+  - Name: Output
+    ReturnType: -> String
+    Parameters: []
   - Name: Random
     ReturnType: -> Single
     Parameters: []

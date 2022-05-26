@@ -1,4 +1,8 @@
-﻿title: Start
+#__PrivCrochet_version:1
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -780,-324
+__PrivCrochet_tags: 
+title: Start
 ---
 Orin: Hey, I am Orin.
 Okuu: Hi there Orin! I'm Okuu.
@@ -13,6 +17,6 @@ Okuu: You bully.
 <<Expression Orin Perked>>
 Orin: I'm just kidding. Let me make it up to ya', let me take you out for some lunch. What kind of food do ya like?
 <<SentenceBuilder GameObject>>
-Okuu: Huh?! Is she asking me on a date! Okay! Think! Think! Where should we eat together?
+Okuu: [i]Huh?! Is she asking me on a date! Okay! Think! Think! Where should we eat together?[/i]
 Okuu: {Output()}
 ===
