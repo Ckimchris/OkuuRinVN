@@ -10,4 +10,9 @@ Okuu: What?
 Orin: Just kidding.
 <<Expression Okuu Sad>>
 Okuu: You bully.
+<<Expression Orin Perked>>
+Orin: I'm just kidding. Let me make it up to ya', let me take you out for some lunch. What kind of food do ya like?
+<<SentenceBuilder GameObject>>
+Okuu: Huh?! Is she asking me on a date! Okay! Think! Think! Where should we eat together?
+Okuu: {Output()}
 ===
